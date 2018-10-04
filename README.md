@@ -6,7 +6,7 @@
   - Mobile responsiveness preview - https://www.responsinator.com/?url=https%3A%2F%2Fcrav-5afdb.firebaseapp.com%2F
 
 ## Link to Backend repo: 
-  - https://github.com/piferdg/CRAV_BE
+  - https://github.com/mcoons/crav_be
 
 
 ## Problem we are solving with CRāV
