@@ -1,5 +1,8 @@
 # CRāV - A solution for the munchies.
 
+![Crav](/crav.png)
+
+
 ## Deployed links: 
   - Frontend - https://crav-5afdb.firebaseapp.com/
   - Backend(API) - https://crav.herokuapp.com/
