@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/piferdg/CRAV_FE.git"
+    "url": "git+https://github.com/mcoons/crav_fe.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/piferdg/CRAV_FE/issues"
+    "url": "https://github.com/mcoons/crav_fe/issues"
   },
-  "homepage": "https://github.com/piferdg/CRAV_FE#readme",
+  "homepage": "https://github.com/mcoons/crav_fe#readme",
   "dependencies": {},
   "devDependencies": {}
 }
